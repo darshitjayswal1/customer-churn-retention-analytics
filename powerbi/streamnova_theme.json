@@ -1,0 +1,61 @@
+{
+  "name": "StreamNova Churn Theme",
+  "dataColors": [
+    "#2BB6A6",
+    "#4D9FFF",
+    "#7C6FF0",
+    "#F2A93B",
+    "#E5534B",
+    "#36B37E",
+    "#5B6B7B",
+    "#9FB0C0"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1B2735",
+  "foregroundNeutralSecondary": "#5B6B7B",
+  "foregroundNeutralTertiary": "#9FB0C0",
+  "tableAccent": "#2BB6A6",
+  "good": "#36B37E",
+  "neutral": "#F2A93B",
+  "bad": "#E5534B",
+  "maximum": "#E5534B",
+  "center": "#F2A93B",
+  "minimum": "#36B37E",
+  "null": "#EEF1F4",
+  "hyperlink": "#4D9FFF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          { "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }
+        ],
+        "border": [
+          { "show": true, "color": { "solid": { "color": "#E3E8EE" } }, "radius": 8 }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#1B2735" } },
+            "background": { "solid": { "color": "#FFFFFF" } },
+            "alignment": "left",
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "visualHeader": [
+          { "show": false }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          { "color": { "solid": { "color": "#F4F6F8" } }, "transparency": 0 }
+        ],
+        "outspace": [
+          { "color": { "solid": { "color": "#F4F6F8" } }, "transparency": 0 }
+        ]
+      }
+    }
+  }
+}
