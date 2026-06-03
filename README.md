@@ -10,6 +10,17 @@
 > acquisition spend.
 
 ---
+## Dashboard preview
+
+**Page 1 — Executive Overview**
+![Executive Overview dashboard page](images/Overview.png)
+
+**Page 2 — Churn Deep-Dive**
+![Churn deep-dive dashboard page](images/Churn.png)
+
+**Page 3 — Customer Segments (RFM)**
+![Customer segments RFM dashboard page](images/Segments.png)
+
 
 ## 1. Business problem
 
